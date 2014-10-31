@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Consulta CEP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Info</string>
+    <string name="historico_ceps">Histórico de CEPs</string>
+    <string name="cep">CEP:</string>
+    <string name="logradouro">Log.: </string>
+    <string name="tipo">Tipo: </string>
+    <string name="bairro">Bairro: </string>
+    <string name="cidade">Cidade: </string>
+    <string name="estado">Estado: </string>
+    <string name="consultadoCEP">Consultando CEP...</string>
+    <string name="digiteCEP">Digite o CEP desejado:</string>
+    <string name="CEP_nao_encontrado">CEP não encontrado.</string>
+    <string name="sobre_activity">Sobre</string>
+    <string name="author_name">Fernando Santos</string>
+    <string name="author_email">fersantos.dev@gmail.com</string>
+    <string name="sobre_utiliza">O Consulta CEP utiliza:</string>
+    <string name="gson">Google Gson:</string>
+    <string name="gson_link">https://code.google.com/p/google-gson/</string>
+    <string name="correios_api">Correios RESTful API</string>
+    <string name="correios_api_link">http://correiosapi.apphb.com/</string>
+
+</resources>
